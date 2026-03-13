@@ -1,0 +1,116 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "MobWithAdMobAdapter",
+    "printedName": "MobWithAdMobAdapter",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobWithAdMobAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "OSLog",
+        "printedName": "OSLog",
+        "declKind": "Import",
+        "moduleName": "MobWithAdMobAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobWithAdMobAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobWithAdMobAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MobWithADSDKFramework",
+        "printedName": "MobWithADSDKFramework",
+        "declKind": "Import",
+        "moduleName": "MobWithAdMobAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "GoogleMobileAds",
+        "printedName": "GoogleMobileAds",
+        "declKind": "Import",
+        "moduleName": "MobWithAdMobAdapter"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdMobAdapter\/MobWithAdMobAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 238,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdMobAdapter\/MobWithAdMobAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 394,
+      "length": 21,
+      "value": "\"MobWithAdMobAdapter\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdMobAdapter\/MobWithAdMobAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 764,
+      "length": 21,
+      "value": "\"MobWithAdMobAdapter\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdMobAdapter\/MobWithAdMobAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 1029,
+      "length": 21,
+      "value": "\"yyyy-MM-dd HH:mm:ss\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdMobAdapter\/MobWithAdMobAdapter\/MobWithAdMobAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 309,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdMobAdapter\/MobWithAdMobAdapter\/MobWithAdMobAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 347,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdMobAdapter\/MobWithAdMobAdapter\/MobWithAdMobAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 390,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdMobAdapter\/MobWithAdMobAdapter\/MobWithAdMobAdapter.swift",
+      "kind": "Array",
+      "offset": 592,
+      "length": 2,
+      "value": "[]"
+    }
+  ]
+}
