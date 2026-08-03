@@ -88,27 +88,27 @@
       "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdMobAdapter\/MobWithAdMobAdapter\/MobWithAdMobAdapter.swift",
       "kind": "BooleanLiteral",
       "offset": 393,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdMobAdapter\/MobWithAdMobAdapter\/MobWithAdMobAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 430,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdMobAdapter\/MobWithAdMobAdapter\/MobWithAdMobAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 431,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdMobAdapter\/MobWithAdMobAdapter\/MobWithAdMobAdapter.swift",
-      "kind": "BooleanLiteral",
-      "offset": 474,
+      "offset": 473,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithAdMobAdapter\/MobWithAdMobAdapter\/MobWithAdMobAdapter.swift",
       "kind": "Array",
-      "offset": 676,
+      "offset": 675,
       "length": 2,
       "value": "[]"
     }
