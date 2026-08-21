@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		85oRtRvgZp4KAl9dktBJxUPwwCU=
+		s+pDIU0QmUkG0tjOIqV+K3mPhS8=
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		1IBBD0Yh9JiW3JMtP0bgDRolTUw=
+		UcCV23/yKaC4mB4GVWZk5WrDbbs=
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		8wC4s7mU/XsRZudPxwq361KYFUQ=
+		gnxYLPPRZe6LL83FAVmFNG002pI=
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		1IBBD0Yh9JiW3JMtP0bgDRolTUw=
+		UcCV23/yKaC4mB4GVWZk5WrDbbs=
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ffOU/aBe3T7jfccP4BcENBpX93A=
+		Y/mU6chSEYKn4sYE01uw0E/kvSs=
 		</data>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ViQAUVk8SNCYl4gD+GExC7YUVDFBJGmt5tcPZ3X6khk=
+			7qWstCO7zFH0p8MeOs2shdGnq/x3lF4t+Csw4j24F9M=
 			</data>
 		</dict>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -113,14 +113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JnCjA95PNlTXS9uq8VB6U5gdnsO18NHDpauOC0kXIfs=
+			gGeKdxXotnwAKKm3v5JciK6WKWgSoTVPiDwzr5n3UVY=
 			</data>
 		</dict>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ViQAUVk8SNCYl4gD+GExC7YUVDFBJGmt5tcPZ3X6khk=
+			7qWstCO7zFH0p8MeOs2shdGnq/x3lF4t+Csw4j24F9M=
 			</data>
 		</dict>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9tRy1g9JLS/FfWlAfllSxigR2fIYDgUw3GYM3eWrJMo=
+			aF3vJRdhBWEbawVUFJxUwqoA+8KhuKBpFPDHBIMjGUk=
 			</data>
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
