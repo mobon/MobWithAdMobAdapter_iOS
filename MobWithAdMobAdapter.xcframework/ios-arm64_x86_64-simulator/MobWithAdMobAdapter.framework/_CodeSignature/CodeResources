@@ -6,7 +6,7 @@
 	<dict>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		Kg8iVqdu5kbc3IeoE4IqE38MTpU=
+		nQ2vg5bjAMoMDVnWZ2B+sZ0HrVE=
 		</data>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -14,11 +14,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		s+pDIU0QmUkG0tjOIqV+K3mPhS8=
+		XnruSTKlS/kZThXJX2jmwO/HzrA=
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		UcCV23/yKaC4mB4GVWZk5WrDbbs=
+		qK+PBBlcLgbJGcZZLIQXYZIdGBw=
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -34,11 +34,11 @@
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gnxYLPPRZe6LL83FAVmFNG002pI=
+		QWtgcA1XfIri80eLRgvIdV9TXw0=
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		UcCV23/yKaC4mB4GVWZk5WrDbbs=
+		qK+PBBlcLgbJGcZZLIQXYZIdGBw=
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Y/mU6chSEYKn4sYE01uw0E/kvSs=
+		y83ihIdIuyRXAKaMnwYXgluwD1E=
 		</data>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
@@ -71,7 +71,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6gC9ZvkWEnakXSAawhz9RGpZU06JJng+i5iO3+5Buec=
+			N85IHFUlZnTjWuq/LNg9nJ9RK+1BrxWgG1gk4qA5NTo=
 			</data>
 		</dict>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -85,7 +85,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7qWstCO7zFH0p8MeOs2shdGnq/x3lF4t+Csw4j24F9M=
+			0nUNt0GTgRg1Iw/leUaA17UOL7y2WJAIr/ywBVltznc=
 			</data>
 		</dict>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -113,14 +113,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gGeKdxXotnwAKKm3v5JciK6WKWgSoTVPiDwzr5n3UVY=
+			hIVrPcUW5jEi49BbQzS/z6VzWKYtdF2HppzgoBtfoKI=
 			</data>
 		</dict>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7qWstCO7zFH0p8MeOs2shdGnq/x3lF4t+Csw4j24F9M=
+			0nUNt0GTgRg1Iw/leUaA17UOL7y2WJAIr/ywBVltznc=
 			</data>
 		</dict>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -148,7 +148,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aF3vJRdhBWEbawVUFJxUwqoA+8KhuKBpFPDHBIMjGUk=
+			npK6TLdhQ2NyKaV8+iwUsyDD1g9b/gGXG5ejVPgqf1Q=
 			</data>
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
