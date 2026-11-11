@@ -6,7 +6,7 @@
 	<dict>
 		<key>GoogleMobileAdsResources.bundle/Info.plist</key>
 		<data>
-		5Otb3tMUAWrcMWEP0kGszRZ8XEY=
+		85TOVrrAefRWYLRv2IK8CulDua0=
 		</data>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CncGMCBA/L2hE94We+cMkvni7/0=
+		DAAlL3uPUT2kicNcEf3BPyu4L7o=
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -22,19 +22,19 @@
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		cbxaDyQ1dnF5tsYmhN8EnVQvteg=
+		oa/zAYOdfrhM6ND1WLlAUtJ8Qxg=
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		6rwxGDhiOXFQXCOJik3Cq1HZJGY=
+		JApQBuZpQwlX4DErd01IP6kkv2o=
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		cbxaDyQ1dnF5tsYmhN8EnVQvteg=
+		oa/zAYOdfrhM6ND1WLlAUtJ8Qxg=
 		</data>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		xWbaFGh2ijwafoV8BV4aZF8NiBk=
+		QXrLJT0nbcQUrbq9w5XQZmynisI=
 		</data>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
 		<data>
@@ -51,7 +51,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N6yhEIacK7d7D3mx7Ay2tApMCl6Ncn65LPyvZnQgQg0=
+			MwVoC4VB5nKHn1hb6NNQXzuKOwTDp+pqeNBN1tQVSqM=
 			</data>
 		</dict>
 		<key>GoogleMobileAdsResources.bundle/PrivacyInfo.xcprivacy</key>
@@ -72,28 +72,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			59tlWt9CKN1sP64/j81zK50kzJc9osIZkTBtmLW8tXk=
+			aJ9GhyJ7g5JHeLqKwqFEt4VNrBVbQK+y79hy36UPBms=
 			</data>
 		</dict>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G3+EkalIr6RQnU2wvhvOdW2AyAyudIXd38aSHDYsgbE=
+			dq9rUTlwPlFQEsCshpzOMPQtpwgoRt5DRtdFd2mdpxY=
 			</data>
 		</dict>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			59tlWt9CKN1sP64/j81zK50kzJc9osIZkTBtmLW8tXk=
+			aJ9GhyJ7g5JHeLqKwqFEt4VNrBVbQK+y79hy36UPBms=
 			</data>
 		</dict>
 		<key>Modules/MobWithAdMobAdapter.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8ARY7XuJ+gXxq47hYD2K4kMPgtR7c5D+C90OQWfRn8s=
+			kh19UO/3DXG0HfsS10AGLthRotK18FpCCgSYIXUJYvc=
 			</data>
 		</dict>
 		<key>UserMessagingPlatformResources.bundle/Info.plist</key>
